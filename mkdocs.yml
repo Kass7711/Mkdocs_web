@@ -1,0 +1,13 @@
+site_name: MkDocs_web
+
+site_url: https://Kas7711.github.io/Mkdocs_web/
+theme:
+  name: material
+
+site_author: Kass
+copyright: Kass, MkDocs_web, 2025
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
